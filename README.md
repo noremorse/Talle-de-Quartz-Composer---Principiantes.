@@ -76,6 +76,31 @@ Entorno 3d:
 - objetos: esferas y cubos.
 - importar objetos 3d.
 
+----
+	
+# Taller Día 2:
+## Contenido:
+
+Repaso
+
+- Logicas Matematica
+- tipos de datos.
+	 	
+Structure
+
+- ejemplos de Structures,  tipos de datos.
+- qeue, index, string, 
+- iterator	, iterator variables
+
+
+Inputs varios.
+- midi, osc, teclado, sonido, syphon
+
+plugins recomendados
+Emit
+1024 structure plugins
+
+	
 
 
 
