@@ -100,6 +100,41 @@ plugins recomendados
 Emit
 1024 structure plugins
 
+----
+
+Inputs
+Teclado y mouse
+
+- keyboard
+- Mouse
+- Interacction
+- Trackball
+
+Midi
+
+- midi Notes Reciever
+- midi Controllers Receiver
+- **MidiTools Kineme**
+- **fsk Midi**
+
+Osc
+
+- OSC sender
+- OSC receiver
+- **qcOSC**
+
+Audio
+
+- audio input
+- audio processor
+- Kineme Audio
+
+ArtNet DMX
+
+-
+
+Serial
+
 	
 
 
